@@ -1,0 +1,5 @@
+Copie este conteúdo para o arquivo .env.local na pasta pos-system:
+
+NEXT_PUBLIC_SUPABASE_URL=https://uuunnssmuelyndymzamo.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_secret_b-a_8WalrwALIJ2qNiyzhw_bec6Qx8E
+
