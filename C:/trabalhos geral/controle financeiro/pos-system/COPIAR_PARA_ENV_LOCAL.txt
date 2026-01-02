@@ -1,0 +1,20 @@
+═══════════════════════════════════════════════════════════════
+  COPIE ESTE CONTEÚDO PARA O ARQUIVO .env.local
+═══════════════════════════════════════════════════════════════
+
+NEXT_PUBLIC_SUPABASE_URL=https://uuunnssmuelyndymzamo.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_SCT36vcY2d48yXLue5xs9Q_ugF7fCKF
+
+═══════════════════════════════════════════════════════════════
+  INSTRUÇÕES:
+═══════════════════════════════════════════════════════════════
+
+1. Abra a pasta: pos-system
+2. Crie um arquivo chamado: .env.local
+   (se já existir, edite ele)
+3. Cole as duas linhas acima no arquivo
+4. Salve o arquivo
+5. Reinicie o servidor (Ctrl+C e depois npm run dev)
+
+═══════════════════════════════════════════════════════════════
+
