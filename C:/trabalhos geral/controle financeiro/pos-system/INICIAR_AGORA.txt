@@ -1,0 +1,29 @@
+═══════════════════════════════════════════════════════════════
+  INICIAR O SERVIDOR AGORA
+═══════════════════════════════════════════════════════════════
+
+O servidor não está rodando. Para iniciar:
+
+1. Abra o PowerShell ou Terminal
+
+2. Execute estes comandos:
+
+   cd "c:\trabalhos geral\controle financeiro\pos-system"
+   npm run dev
+
+3. Aguarde aparecer:
+   ✓ Ready in Xs
+   ○ Local: http://localhost:3000
+
+4. Acesse no navegador:
+   http://localhost:3000
+
+═══════════════════════════════════════════════════════════════
+
+IMPORTANTE: Deixe o terminal aberto enquanto usa o sistema!
+Para parar o servidor, pressione Ctrl+C no terminal.
+
+═══════════════════════════════════════════════════════════════
+
+
+
