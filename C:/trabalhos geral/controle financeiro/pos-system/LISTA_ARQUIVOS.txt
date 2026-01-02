@@ -1,0 +1,45 @@
+LISTA DE ARQUIVOS PARA UPLOAD NO GITHUB
+=====================================
+
+ARQUIVOS NA RAIZ (pos-system/):
+- package.json
+- package-lock.json
+- next.config.mjs
+- postcss.config.mjs
+- tailwind.config.ts
+- tsconfig.json
+- vercel.json
+- .gitignore
+- README.md
+- README_GITHUB.md
+- CRIAR_TABELA_CATEGORIAS.sql
+- Todos os arquivos .md
+
+PASTA src/ (TODA A PASTA):
+- src/app/
+- src/components/
+- src/lib/
+- src/middleware.ts
+
+PASTA public/ (TODA A PASTA):
+- public/next.svg
+- public/placeholder-user.jpg
+- public/placeholder.svg
+- public/vercel.svg
+- public/WhatsApp_Image_2025-12-28_at_10.17.46-removebg-preview.png
+
+NÃO ENVIAR:
+- node_modules/
+- .next/
+- .git/
+- .env
+- .env.local
+- bun.lockb (se existir)
+
+INSTRUÇÕES:
+1. Acesse: https://github.com/bijuxoliveira-spec/controlefinanceiro
+2. Clique em "Add file" > "Upload files"
+3. Arraste todos os arquivos listados acima
+4. Commit: "Sistema completo de controle financeiro"
+5. Clique em "Commit changes"
+
