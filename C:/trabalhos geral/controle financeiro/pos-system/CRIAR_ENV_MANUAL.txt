@@ -1,0 +1,21 @@
+═══════════════════════════════════════════════════════════════
+  CRIAR ARQUIVO .env.local MANUALMENTE
+═══════════════════════════════════════════════════════════════
+
+1. Abra a pasta: pos-system
+
+2. Crie um NOVO arquivo chamado: .env.local
+   (sem aspas, começando com ponto)
+
+3. Cole EXATAMENTE este conteúdo (sem espaços extras):
+
+NEXT_PUBLIC_SUPABASE_URL=https://uuunnssmuelyndymzamo.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_SCT36vcY2d48yXLue5xs9Q_ugF7fCKF
+
+4. Salve o arquivo
+
+5. IMPORTANTE: Pare o servidor (Ctrl+C) e reinicie:
+   npm run dev
+
+═══════════════════════════════════════════════════════════════
+
